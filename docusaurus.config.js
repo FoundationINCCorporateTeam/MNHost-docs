@@ -96,10 +96,6 @@ const config = {
             ],
           },
           {
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
