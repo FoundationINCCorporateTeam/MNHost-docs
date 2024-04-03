@@ -1,8 +1,8 @@
 Docs Info
 
 ## Contact Info:
-Email: [mngames43011@gmail.com](mailto:mngames43011@gmail.com)<br>
-  Support Portal: Coming Soon<br>
+Email: [mngames43011@gmail.com](mailto:mngames43011@gmail.com)\
+  Support Portal: Coming Soon\
     Github: https://github.com/MNHost
 
 ## Docs Information:
